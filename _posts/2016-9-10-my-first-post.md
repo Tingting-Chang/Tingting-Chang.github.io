@@ -1,6 +1,6 @@
 ---
 layout: inner
-title: 'My notes about Sublime Text 3'
+title: 'Sublime Text 3'
 date: 2016-9-10 13:26:34
 categories: blog development
 tags: Sublime Text 3
