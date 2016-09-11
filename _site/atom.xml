@@ -4,7 +4,7 @@
  <title>Welcome to Ting's Castle =)</title>
  <link href="https://tingting-chang.github.io/atom.xml" rel="self"/>
  <link href="https://tingting-chang.github.io/"/>
- <updated>2016-09-11T10:40:11-04:00</updated>
+ <updated>2016-09-11T11:08:13-04:00</updated>
  <id>https://tingting-chang.github.io</id>
  <author>
    <name>Tingting Chang</name>
@@ -13,7 +13,7 @@
 
  
  <entry>
-   <title>My First Post on Jekyll</title>
+   <title>My notes about Sublime Text 3</title>
    <link href="https://tingting-chang.github.io/my-first-post.html"/>
    <updated>2016-09-10T09:26:34-04:00</updated>
    <id>https://tingting-chang.github.io/my-first-post</id>
@@ -274,9 +274,6 @@
 &lt;/ol&gt;
 
 &lt;p&gt;```&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;&lt;/li&gt;
-&lt;/ol&gt;
 
 &lt;p&gt;##Where to ask help?&lt;/p&gt;
 
@@ -284,7 +281,6 @@
   &lt;li&gt;&lt;a href=&quot;https://forum.sublimetext.com&quot;&gt;official forum&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://docs.sublimetext.info/en/latest/index.html&quot;&gt;Unofficial Documentation&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.sublimetext.com/docs/3/&quot;&gt;official help pages&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 </content>

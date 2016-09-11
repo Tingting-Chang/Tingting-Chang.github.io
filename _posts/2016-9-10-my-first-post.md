@@ -1,9 +1,9 @@
 ---
 layout: inner
-title: 'My First Post on Jekyll'
+title: 'My notes about Sublime Text 3'
 date: 2016-9-10 13:26:34
 categories: blog development
-tags: tool
+tags: Sublime Text 3
 lead_text: 'Becoming a sublime power user'
 ---
 

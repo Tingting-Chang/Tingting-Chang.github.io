@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bootstrap 3 Starter Theme for Jekyll
 
 ![Bootstrap 3 Jekyll](https://scotch.io/wp-content/uploads/2015/10/bootstrap-plus-jekyll.png)
@@ -58,3 +59,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 
 
+=======
+# Tingting-Chang.github.io
+Happy coding =)
+>>>>>>> cd33cfcedf3f0641f2f33bc47e4714eb44f6a1b1

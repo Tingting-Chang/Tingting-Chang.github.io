@@ -5,12 +5,12 @@
     <description>A journey of tt as a programmer</description>
     <link>https://tingting-chang.github.io/</link>
     <atom:link href="https://tingting-chang.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 11 Sep 2016 10:40:11 -0400</pubDate>
-    <lastBuildDate>Sun, 11 Sep 2016 10:40:11 -0400</lastBuildDate>
+    <pubDate>Sun, 11 Sep 2016 11:08:13 -0400</pubDate>
+    <lastBuildDate>Sun, 11 Sep 2016 11:08:13 -0400</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>My First Post on Jekyll</title>
+        <title>My notes about Sublime Text 3</title>
         <description>&lt;p&gt;#There are my personal collection about Sublime Text 3&lt;/p&gt;
 
 &lt;p&gt;##Shortcuts&lt;/p&gt;
@@ -268,9 +268,6 @@
 &lt;/ol&gt;
 
 &lt;p&gt;```&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;&lt;/li&gt;
-&lt;/ol&gt;
 
 &lt;p&gt;##Where to ask help?&lt;/p&gt;
 
@@ -278,7 +275,6 @@
   &lt;li&gt;&lt;a href=&quot;https://forum.sublimetext.com&quot;&gt;official forum&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://docs.sublimetext.info/en/latest/index.html&quot;&gt;Unofficial Documentation&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.sublimetext.com/docs/3/&quot;&gt;official help pages&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 </description>
@@ -286,7 +282,11 @@
         <link>https://tingting-chang.github.io/my-first-post.html</link>
         <guid isPermaLink="true">https://tingting-chang.github.io/my-first-post.html</guid>
         
-        <category>tool</category>
+        <category>Sublime</category>
+        
+        <category>Text</category>
+        
+        <category>3</category>
         
         
         <category>blog</category>
