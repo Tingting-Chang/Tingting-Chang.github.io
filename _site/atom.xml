@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Welcome to Ting's Castle =)</title>
+ <link href="https://tingting-chang.github.io/atom.xml" rel="self"/>
+ <link href="https://tingting-chang.github.io/"/>
+ <updated>2016-09-11T10:40:11-04:00</updated>
+ <id>https://tingting-chang.github.io</id>
+ <author>
+   <name>Tingting Chang</name>
+   <email>tingtingchang95@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>My First Post on Jekyll</title>
+   <link href="https://tingting-chang.github.io/my-first-post.html"/>
+   <updated>2016-09-10T09:26:34-04:00</updated>
+   <id>https://tingting-chang.github.io/my-first-post</id>
+   <content type="html">&lt;p&gt;#There are my personal collection about Sublime Text 3&lt;/p&gt;
+
+&lt;p&gt;##Shortcuts&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;The shortcut to show or hide the side bar is &lt;code&gt;Ctrl+K&lt;/code&gt;, &lt;code&gt;Ctrl+B&lt;/code&gt; (Mac: &lt;code&gt;Cmd+K&lt;/code&gt;, &lt;code&gt;Cmd+B&lt;/code&gt;). &lt;code&gt;Up/Down Arrow Keys&lt;/code&gt; Move up/down the side bar when it has the focus. &lt;code&gt;Left/Right Arrow Keys&lt;/code&gt; Expand and collapse folders when the side bar has the focus. &lt;code&gt;Esc&lt;/code&gt; Return the focus to the active view.&lt;/li&gt;
+  &lt;li&gt;You can open Goto Anything with &lt;code&gt;Ctrl+P&lt;/code&gt; (Mac: &lt;code&gt;Cmd+P&lt;/code&gt;).&lt;/li&gt;
+  &lt;li&gt;To open the Command Palette, press &lt;code&gt;Ctrl+Shift+P&lt;/code&gt; (Mac: &lt;code&gt;Cmd+Shift+P&lt;/code&gt;).&lt;/li&gt;
+  &lt;li&gt;Full screen mode, press &lt;code&gt;F11&lt;/code&gt; (Mac: &lt;code&gt;Cmd+Ctrl+F&lt;/code&gt;).&lt;/li&gt;
+  &lt;li&gt;To enter or exit distraction-free mode, press &lt;code&gt;Shift+F11&lt;/code&gt; (Mac: &lt;code&gt;Cmd+Shift+Ctrl+F&lt;/code&gt;). A shortcut that marries well with distraction-free mode is &lt;code&gt;Ctrl+K&lt;/code&gt;, &lt;code&gt;Ctrl+C&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;To see the current scope, press &lt;code&gt;Ctrl+Alt+Shift+P&lt;/code&gt; (Mac: &lt;code&gt;Cmd+Alt+P&lt;/code&gt;).&lt;/li&gt;
+  &lt;li&gt;To show or hide the console, press &lt;code&gt;Ctrl+&lt;/code&gt;`.&lt;/li&gt;
+  &lt;li&gt;To create a new, unsaved file, press &lt;code&gt;Ctrl+N&lt;/code&gt; (Mac: &lt;code&gt;Cmd+N&lt;/code&gt;).&lt;/li&gt;
+  &lt;li&gt;To close a file, press &lt;code&gt;Ctrl+W&lt;/code&gt; (Mac: &lt;code&gt;Cmd+W&lt;/code&gt;).&lt;/li&gt;
+  &lt;li&gt;To switch between projects, you can use the keyboard shortcut &lt;code&gt;Ctrl+Alt+P&lt;/code&gt; (Mac: &lt;code&gt;Cmd+Alt+P&lt;/code&gt;), which opens the Quick Switch Project feature. Before you can start switching between projects, however, you must have already opened at least two different projects.&lt;/li&gt;
+  &lt;li&gt;To open Goto Anything, press &lt;code&gt;Ctrl+P&lt;/code&gt; (Mac: &lt;code&gt;Cmd+P&lt;/code&gt;).&lt;/li&gt;
+  &lt;li&gt;To go to a specific line in the active file, use the ‘:’ operator (also: &lt;code&gt;Ctrl+G&lt;/code&gt;):&lt;/li&gt;
+  &lt;li&gt;To perform a fuzzy search on the active file’s content, use the ‘#’ operator (also: &lt;code&gt;Ctrl+;&lt;/code&gt;; no shortcut available for Mac):&lt;/li&gt;
+  &lt;li&gt;To find a specific symbol in the active file, you can use the ‘@’ operator (also: &lt;code&gt;Ctrl+R&lt;/code&gt;; Mac &lt;code&gt;Cmd+R&lt;/code&gt;):&lt;/li&gt;
+  &lt;li&gt;All these operators can also be used after a file name to target that file instead of the active file.(‘filename’#h)&lt;/li&gt;
+  &lt;li&gt;To switch between the most recent two files, you can simply press &lt;code&gt;Ctrl+P&lt;/code&gt; (Mac: &lt;code&gt;Cmd+P&lt;/code&gt;), then Return. That’s fast and convenient once you get used to Goto Anything, and probably easier than reaching for the alternative &lt;code&gt;Ctrl+Tab&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Switch between recent tabs, &lt;code&gt;Ctrl+Tab&lt;/code&gt; for both Windows and Mac; Go to next/previous tab, &lt;code&gt;Ctrl+PgDown/PgUp&lt;/code&gt; for Windows( &lt;code&gt;Cmd+Shift+[/]&lt;/code&gt; for Mac).&lt;/li&gt;
+  &lt;li&gt;There are a number of keyboard shortcuts devoted to managing groups of views:&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;```
+  For Windows:&lt;/p&gt;
+
+&lt;p&gt;Ctrl+K, Ctrl+Up	Move file to new group
+  Ctrl+K, Ctrl+Down	Close group
+  Ctrl+K, Ctrl+Left	Focus previous group
+  Ctrl+K, Ctrl+Right	Focus next group
+  Ctrl+1–9	Focus numbered group
+  Ctrl+Shift+1–9	Send files to numbered group&lt;/p&gt;
+
+&lt;p&gt;For Mac:&lt;/p&gt;
+
+&lt;p&gt;Cmd+K, Cmd+Up	Move file to new group
+  Cmd+K, Cmd+Down	Close group
+  Cmd+K, Cmd+Left	Focus previous group
+  Cmd+K, Cmd+Right	Focus next group
+  Cmd+1–9	Focus numbered group
+  Ctrl+Shift+1–9	Send files to numbered group&lt;/p&gt;
+
+&lt;p&gt;```&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Here are the keyboard shortcuts to activate some of these available layouts:&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;One-Column layout (Default):&lt;code&gt;Alt+Shift+1&lt;/code&gt;(Mac:&lt;code&gt;Cmd+Alt+1&lt;/code&gt;);Two-Column layout:&lt;code&gt;Alt+Shift+2&lt;/code&gt;(Mac:&lt;code&gt;Cmd+Alt+2&lt;/code&gt;)&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Sometimes it’s useful to simultaneously take a look at two different parts of the same file. Click on “File,” then “New View into File”.&lt;/li&gt;
+  &lt;li&gt;Folding sh&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;```
+  Ctrl+Shift+[	Fold
+  Ctrl+Shift+]	Unfold
+  Ctrl+K, Ctrl+0	Unfold All
+  Ctrl+K, Ctrl+1	Fold All
+  Ctrl+K, Ctrl+2	Fold Level 2
+  Ctrl+K, Ctrl+3	Fold Level 3&lt;/p&gt;
+
+&lt;p&gt;For Mac:&lt;/p&gt;
+
+&lt;p&gt;Alt+Shift+[	Fold
+  Alt+Shift+]	Unfold
+  Cmd+K+0	Unfold All
+  Cmd+K+1	Fold All
+  Cmd+K+2	Fold Level 2
+  Cmd+K+3	Fold Level 3&lt;/p&gt;
+
+&lt;p&gt;```&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Keyboard Shortcuts Related to Bookmarks:&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;```
+  Ctrl+F2	Set a bookmark
+  Ctrl+F2	Remove a bookmark
+  Ctrl+Shift+F2	Remove all bookmarks
+  Alt+F2	Select all bookmarks
+  F2	Travel to next bookmark
+  Shift+F2	Travel to previous bookmark&lt;/p&gt;
+
+&lt;p&gt;For Mac:&lt;/p&gt;
+
+&lt;p&gt;Cmd+F2	Set a bookmark
+  Cmd+F2	Remove a bookmark
+  Cmd+Shift+F2	Remove all bookmarks
+  Alt+F2	Select all bookmarks
+  F2	Travel to next bookmark
+  Shift+F2	Travel to previous bookmark&lt;/p&gt;
+
+&lt;p&gt;```&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;You can trace back your steps as you work through a project by pressing &lt;code&gt;Alt+-&lt;/code&gt; on your keyboard. This shortcut will teleport you to locations you’ve visited recently, across all your open files. To move forward in the series, press &lt;code&gt;Alt+Shift+-&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;To open the local list, press &lt;code&gt;Ctrl+R&lt;/code&gt;. To open the global list, press &lt;code&gt;Ctrl+Shift+R&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;##Setting&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;The main types of settings are global settngs, view settings, syntax-specific settings, project settings, and folder settings.&lt;/li&gt;
+  &lt;li&gt;Order of precedence for loading settings:
+    &lt;ul&gt;
+      &lt;li&gt;Packages/Default/Preferences.sublime-settings&lt;/li&gt;
+      &lt;li&gt;Packages/Default/Preferences (&lt;platform&gt;).sublime-settings&lt;/platform&gt;&lt;/li&gt;
+      &lt;li&gt;Packages/User/Preferences.sublime-settings&lt;/li&gt;
+      &lt;li&gt;
+        &lt;Project Settings=&quot;&quot;&gt;
+&lt;/Project&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Packages/&lt;syntax&gt;/&lt;syntax&gt;.sublime-settings&lt;/syntax&gt;&lt;/syntax&gt;&lt;/li&gt;
+      &lt;li&gt;Packages/User/&lt;syntax&gt;.sublime-settings&lt;/syntax&gt;&lt;/li&gt;
+      &lt;li&gt;
+        &lt;Buffer Specific=&quot;&quot; Settings=&quot;&quot;&gt;
+
+&lt;/Buffer&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Note that Packages/Default includes the Default.sublime-package package even though this package isn’t physically located there.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Global settings are stored in the Preferences.sublime-settings file.There are two important global setting files: the Default Preferences file, and the User Preferences file.To change global settings, use the User Preferences file.&lt;/li&gt;
+  &lt;li&gt;The syntax definition files in Sublime Text may have the .tmLanguage or the .sublime-syntax extension.&lt;/li&gt;
+  &lt;li&gt;Settings for the Distraction-Free mode are located in Distraction Free.sublime-settings.&lt;/li&gt;
+  &lt;li&gt;To enable rulers, choose rulers in your User Preferences file. Indicate where you want your rulers to be drawn by typing their locations as a list of integers using the JSON syntax (for example, &lt;code&gt;&quot;rulers&quot;:[80, 120]&lt;/code&gt;) representing how many characters from the left the ruler will fall.&lt;/li&gt;
+  &lt;li&gt;The &lt;code&gt;tab_size&lt;/code&gt; setting determines the width of a tab character measured in spaces; 4 and 2 are both common values. When &lt;code&gt;translate_tabs_to_spaces&lt;/code&gt; is set to true, the given number of spaces will be inserted in place of the tab character.&lt;/li&gt;
+  &lt;li&gt;The tidy &lt;code&gt;trim_trailing_white_space_on_save&lt;/code&gt; setting automatically removes extraneous spaces from the end of lines when you save a file, which is generally desirable. However, some files expect these spaces to be preserved, so this setting may cause problems for certain projects.&lt;/li&gt;
+  &lt;li&gt;The &lt;code&gt;ensure_newline_at_eof_on_save&lt;/code&gt; instructs Sublime Text to automatically add a newline character at the end of a file when you save it.&lt;/li&gt;
+  &lt;li&gt;The &lt;code&gt;caret_style&lt;/code&gt; controls the appearance of the caret.&lt;/li&gt;
+  &lt;li&gt;The &lt;code&gt;theme&lt;/code&gt; setting determines the look of the UI.&lt;/li&gt;
+  &lt;li&gt;You can change the &lt;code&gt;color_scheme&lt;/code&gt; by adding the path to the color scheme manually, or you can click on “Preferences” and then “Color Scheme,”and find a color scheme there.&lt;/li&gt;
+  &lt;li&gt;The &lt;code&gt;show_encoding&lt;/code&gt; setting shows the current file’s encoding in the status bar.&lt;/li&gt;
+  &lt;li&gt;To show the active file’s line terminator (also known as the line ending) in the status bar, use the &lt;code&gt;show_line_endings&lt;/code&gt; setting.&lt;/li&gt;
+  &lt;li&gt;To ignore and hide folders from projects, use the &lt;code&gt;folder_exclude_patterns&lt;/code&gt; setting&lt;/li&gt;
+  &lt;li&gt;To ignore and hide files from projects, use the &lt;code&gt;file_exclude_patterns&lt;/code&gt; setting&lt;/li&gt;
+  &lt;li&gt;The &lt;code&gt;binary_file_patterns&lt;/code&gt; setting ignores files while performing project-wide actions (like searching), but does not hide the files.&lt;/li&gt;
+  &lt;li&gt;Use &lt;code&gt;always_show_minimap_viewport&lt;/code&gt; make the minimap viewport always visible. Otherwise, it is only visible when you hover the mouse over the minimap.&lt;/li&gt;
+  &lt;li&gt;The &lt;code&gt;draw_minimap_border&lt;/code&gt; draws a border around the visible rectangle on the minimap. To enable this setting, &lt;code&gt;always_show_minimap_viewport&lt;/code&gt; must also be enabled.&lt;/li&gt;
+  &lt;li&gt;This, &lt;code&gt;ignored_packages&lt;/code&gt;, is a list of packages that Sublime Text will ignore. Ignored packages will not be available for use. If a package you use stops working, check first whether you’ve added it to &lt;code&gt;ignored_packages&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;The &lt;code&gt;highlight_line&lt;/code&gt; setting highlights the active line.&lt;/li&gt;
+  &lt;li&gt;The &lt;code&gt;highlight_modified_tabs&lt;/code&gt; setting highlights modified tabs in a different color so they stand out more.&lt;/li&gt;
+  &lt;li&gt;By default, if you restart Sublime Text while in full-screen mode, you’ll return to normal-screen mode. This default setting is intended to make it easy to return the desktop. If you are going to use the full-screen mode often, you may want to change this setting in your User Settings file using &lt;code&gt;remember_full_screen&lt;/code&gt;, which makes Sublime Text remember the full-screen state.&lt;/li&gt;
+  &lt;li&gt;You’ll generally edit a &lt;code&gt;.sublime-project&lt;/code&gt; file in order to add project-specific settings and folder settings. To open the project file for editing, click on “Project” and then “Edit Project” in the main menu.&lt;/li&gt;
+  &lt;li&gt;Project-specific settings are added under the top-level “settings” key. If this key isn’t present, you can create it yourself. Here’s an example of a file setting that will only be in effect for files in the corresponding project:&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;```&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;&quot;folders&quot;: [
+    { &quot;path&quot;: &quot;.&quot; }
+],
+
+&quot;settings&quot;: {
+    &quot;trim_trailing_white_space_on_save&quot;: true
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;```&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Folder settings are added directly under each folder’s entry in the .sublime-project file and are designed to affect those parts of the editor that are related to the management of projects. For example, if you exclude files from a folder, those files will not be available in the side bar, in Goto Anything or in project-wide searches.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;```
+   “folders”:
+     [
+         {
+             “path”: “.”,
+             “file_exclude_patterns”: [“*.exe”]
+         }
+     ],&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt; &quot;settings&quot;: {
+     &quot;trim_trailing_white_space_on_save&quot;: true
+ }
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;```&lt;/p&gt;
+
+&lt;p&gt;```&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;&quot;folders&quot;:
+  	[
+		{
+			&quot;path&quot;: &quot;.&quot;,
+			&quot;folder_exclude_patterns&quot;: [&quot;vendor&quot;, &quot;dist&quot;]
+		}
+  	]
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;```&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Whenever you create a &lt;code&gt;.sublime-project&lt;/code&gt; file, a corresponding &lt;code&gt;.sublime-workspace&lt;/code&gt; file will be generated as well. The former may be safely committed to a source code repository. The latter, however, should never be as it contains many project details and is used by Sublime Text to keep track of the state of the project.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Note: Never commit &lt;code&gt;.sublime-workspace&lt;/code&gt; files to a source code repository. They may contain sensitive data.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Sublime Text &lt;code&gt;.sublime-workspace&lt;/code&gt; files have another purpose in addition to storing details about the state of a project. They can also be used as subprojects. You can create separate workspaces in order to switch between files while remaining in the same project.&lt;/li&gt;
+  &lt;li&gt;Common Folder Settings
+    &lt;ul&gt;
+      &lt;li&gt;folder_exclude_patterns: Any patterns listed here will exclude matching folders from the side bar and project-wide actions, like Goto Anything and project searches.&lt;/li&gt;
+      &lt;li&gt;folder_include_patterns: Any patterns listed here will make matching folders the only ones available in the side bar and project-wide actions, like Goto Anything and project searches.&lt;/li&gt;
+      &lt;li&gt;file_exclude_patterns: Any patterns listed here will exclude matching files from the side bar and project-wide actions, like Goto Anything and project searches.&lt;/li&gt;
+      &lt;li&gt;file_include_patterns: Any patterns listed here will make matching files the only ones available in the side bar and in project-wide actions like Goto Anything and project searches.&lt;/li&gt;
+      &lt;li&gt;binary_file_patterns: Any patterns listed here will make matching files visible in the side bar, but they will be excluded from the side bar and project-wide actions, like Goto Anything and project searches.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;##Debugging&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;It can sometimes be helpful to check which settings are being applied to the current file.&lt;code&gt;view.settings().get('&amp;lt;some_setting_name&amp;gt;')&lt;/code&gt;, &lt;code&gt;view.settings().get('syntax')&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;For example, &lt;code&gt;view.settings().get('tab_size')&lt;/code&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;If you are dealing with a global setting, this is the correct incantation:&lt;code&gt;window.settings().get('&amp;lt;some_setting_name&amp;gt;')&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;To set a setting from the console, you can use one of these two statements:&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;code&gt;view.settings().set('&amp;lt;setting_name&amp;gt;', &amp;lt;setting_value&amp;gt;)&lt;/code&gt;
+  &lt;code&gt;window.settings().set('&amp;lt;setting_name&amp;gt;', &amp;lt;setting_value&amp;gt;)&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;For example, &lt;code&gt;view.settings().set('translate_tabs_to_spaces', False)&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Note: If you don’t know whether a setting is a view or a global setting, you can try both ways and see which one returns a value.&lt;/p&gt;
+
+&lt;p&gt;##Packages&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;There are two main files containing keyboard shortcuts: the Default.sublime-keymap file — located in the Default.sublime-package — and the Default (&lt;platform&gt;).sublime-keymap file. The latter is located in your Packages/User directory.&lt;/platform&gt;&lt;/li&gt;
+  &lt;li&gt;Sublime Text setting files use the JSON format, and they have a .sublime-settings extension (for example, Preferences.sublime-settings).&lt;/li&gt;
+  &lt;li&gt;A Sublime Text project is defined in a JSON configuration file with the .sublime-project extension as following:
+  ```
+{
+     “folders”: [
+         {
+             “path”: “.”
+         }
+     ]
+ }&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;```&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;##Where to ask help?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://forum.sublimetext.com&quot;&gt;official forum&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://docs.sublimetext.info/en/latest/index.html&quot;&gt;Unofficial Documentation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.sublimetext.com/docs/3/&quot;&gt;official help pages&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>My First Video Post on Jekyll</title>
+   <link href="https://tingting-chang.github.io/my-first-video-post.html"/>
+   <updated>2015-08-31T09:26:34-04:00</updated>
+   <id>https://tingting-chang.github.io/my-first-video-post</id>
+   <content type="html">&lt;p&gt;Steve Austin: Astronaut. A man barely alive. Gentlemen… we can rebuild him. We have the technology. We have the capability to make the world’s first bionic man. Steve Austin will be that man. Better than he was before. Better. Stronger. Faster.&lt;/p&gt;
+
+&lt;p&gt;My name is Rhoda Morgenstern. I was born in the Bronx, New York in December of 1941. I’ve always felt responsible for World War II. The first thing I remember liking that liked me back was food. I had a bad puberty; it lasted seventeen years. I’m a high school graduate. I went to art school. My entrance exam was on a book of matches. I decided to move out of the house when I was twenty-four. My mother still refers to this as the time I ran away from home. Eventually, I ran to Minneapolis, where it’s cold and I figured I’d keep better. Now I’m back in Manhattan. New York, this is your last chance!&lt;/p&gt;
+
+&lt;p&gt;Dr. David Banner: physician; scientist. Searching for a way to tap into the hidden strengths that all humans have… then an accidental overdose of gamma radiation alters his body chemistry. And now when David Banner grows angry or outraged, a startling metamorphosis occurs. The creature is driven by rage and pursued by an investigative reporter. The creature is wanted for a murder he didn’t commit. David Banner is believed to be dead, and he must let the world think that he is dead, until he can find a way to control the raging spirit that dwells within him.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>My First Post on Jekyll</title>
+   <link href="https://tingting-chang.github.io/example-post.html"/>
+   <updated>2015-08-31T09:26:34-04:00</updated>
+   <id>https://tingting-chang.github.io/example-post</id>
+   <content type="html">&lt;p&gt;Steve Austin: Astronaut. A man barely alive. Gentlemen… we can rebuild him. We have the technology. We have the capability to make the world’s first bionic man. Steve Austin will be that man. Better than he was before. Better. Stronger. Faster.&lt;/p&gt;
+
+&lt;p&gt;My name is Rhoda Morgenstern. I was born in the Bronx, New York in December of 1941. I’ve always felt responsible for World War II. The first thing I remember liking that liked me back was food. I had a bad puberty; it lasted seventeen years. I’m a high school graduate. I went to art school. My entrance exam was on a book of matches. I decided to move out of the house when I was twenty-four. My mother still refers to this as the time I ran away from home. Eventually, I ran to Minneapolis, where it’s cold and I figured I’d keep better. Now I’m back in Manhattan. New York, this is your last chance!&lt;/p&gt;
+
+&lt;p&gt;Dr. David Banner: physician; scientist. Searching for a way to tap into the hidden strengths that all humans have… then an accidental overdose of gamma radiation alters his body chemistry. And now when David Banner grows angry or outraged, a startling metamorphosis occurs. The creature is driven by rage and pursued by an investigative reporter. The creature is wanted for a murder he didn’t commit. David Banner is believed to be dead, and he must let the world think that he is dead, until he can find a way to control the raging spirit that dwells within him.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>My First Normal Post on Jekyll</title>
+   <link href="https://tingting-chang.github.io/my-first-normal-post.html"/>
+   <updated>2015-08-15T09:26:34-04:00</updated>
+   <id>https://tingting-chang.github.io/my-first-normal-post</id>
+   <content type="html">&lt;p&gt;Steve Austin: Astronaut. A man barely alive. Gentlemen… we can rebuild him. We have the technology. We have the capability to make the world’s first bionic man. Steve Austin will be that man. Better than he was before. Better. Stronger. Faster.&lt;/p&gt;
+
+&lt;p&gt;My name is Rhoda Morgenstern. I was born in the Bronx, New York in December of 1941. I’ve always felt responsible for World War II. The first thing I remember liking that liked me back was food. I had a bad puberty; it lasted seventeen years. I’m a high school graduate. I went to art school. My entrance exam was on a book of matches. I decided to move out of the house when I was twenty-four. My mother still refers to this as the time I ran away from home. Eventually, I ran to Minneapolis, where it’s cold and I figured I’d keep better. Now I’m back in Manhattan. New York, this is your last chance!&lt;/p&gt;
+
+&lt;p&gt;Dr. David Banner: physician; scientist. Searching for a way to tap into the hidden strengths that all humans have… then an accidental overdose of gamma radiation alters his body chemistry. And now when David Banner grows angry or outraged, a startling metamorphosis occurs. The creature is driven by rage and pursued by an investigative reporter. The creature is wanted for a murder he didn’t commit. David Banner is believed to be dead, and he must let the world think that he is dead, until he can find a way to control the raging spirit that dwells within him.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+
+</feed>

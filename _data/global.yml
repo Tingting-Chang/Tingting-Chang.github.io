@@ -1,10 +1,10 @@
 # Site Settings
-title: 'Scotch Jekyll Bootstrap'
-description: 'An Open-Source Bootstrap 3 Jekyll Theme by Scotch'
-url: 'http://scotch-io.github.io' # the base hostname & protocol for your site
-footer_text: 'This text is footer text. Footer text goes here.'
+title: "Welcome to Ting's Castle =)"
+description: 'A journey of tt as a programmer'
+url: 'https://tingting-chang.github.io' # the base hostname & protocol for your site
+footer_text: 'Learn what you want, love what you do. Happy coding everyday!'
 
 # Admin Settings
-admin_name: 'Nicholas Cerminara'
-admin_email: 'nick@scotch.io'
+admin_name: 'Tingting Chang'
+admin_email: 'tingtingchang95@gmail.com'
 
