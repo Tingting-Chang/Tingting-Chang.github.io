@@ -1,7 +1,7 @@
 ---
 layout: inner
 title: 'Sublime Text 3'
-date: 2016-9-10 13:26:34
+date: 2016-8-10 13:26:34
 categories: blog development
 tags: Sublime Text 3
 lead_text: 'Becoming a sublime power user'
